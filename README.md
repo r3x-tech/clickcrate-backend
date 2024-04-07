@@ -12,7 +12,7 @@ Sell Real World Assets (RWAs) in games with two clicks
 
 **ClickCrate POC Integration** - ClickCrate API integrated into [Slip & Slither](https://slipandslither.r3x.tech/) game together with OraHacks NFTs ([Slip & Slither Game Repo](https://github.com/r3x-tech/slip-and-slither)
 
-[ClickCrate Shopify Store](https://github.com/r3x-tech/slip-and-slither) - Shopify Store from where items are sourced for POC
+[ClickCrate Shopify Store](https://c77256-c7.myshopify.com/) - Shopify Store from where items are sourced for POC
 
 [ClickCrate Dashboard](https://github.com/r3x-tech/clickcrate-dashboard) - Dashboard for no code sellers to work with ClickCrate API when creating products.
 
