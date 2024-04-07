@@ -2,18 +2,19 @@
 
 Sell Real World Assets (RWAs) in games with two clicks
 
+
+
 ## Get Started
 
 **ClickCrate API _(@/clickcrate-api)_** - Node.js API deployed to gcloud that interacts with on-chain Solana ClickCrate program
 
 **ClickCrate Program _(@/programs/lib.rs)_** - Core on-chain Solana ClickCrate program
 
-[ClickCrate Dashboard](https://github.com/r3x-tech/clickcrate-dashboard) - Dashboard for interacting with ClickCrate API and for sellers working with products with no code. 
+**ClickCrate POC Integration** - ClickCrate API integrated into [Slip & Slither](https://slipandslither.r3x.tech/) game together with OraHacks NFTs ([Slip & Slither Game Repo](https://github.com/r3x-tech/slip-and-slither)
 
-**ClickCrate POC Integration** - ClickCrate API integrated into [Slip & Slither](https://slipandslither.r3x.tech/) game in together with OraHacks NFTs 
+[ClickCrate Shopify Store](https://github.com/r3x-tech/slip-and-slither) - Shopify Store from where items are sourced for POC
 
-[Slip & Slither Game Repo](https://github.com/r3x-tech/slip-and-slither)
-
+[ClickCrate Dashboard](https://github.com/r3x-tech/clickcrate-dashboard) - Dashboard for no code sellers to work with ClickCrate API when creating products.
 
 
 
