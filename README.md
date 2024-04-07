@@ -4,9 +4,9 @@ Sell Real World Assets (RWAs) in games with two clicks
 
 ## Get Started
 
-**ClickCrate API _(found at /clickcrate-api)_** - Node.js API deployed to gcloud that interacts with on-chain Solana ClickCrate program
+**ClickCrate API _(@/clickcrate-api)_** - Node.js API deployed to gcloud that interacts with on-chain Solana ClickCrate program
 
-**ClickCrate Program _(found at /programs/lib.rs)_** - Core on-chain Solana ClickCrate program
+**ClickCrate Program _(@/programs/lib.rs)_** - Core on-chain Solana ClickCrate program
 
 [ClickCrate Dashboard](https://github.com/r3x-tech/clickcrate-dashboard) - Dashboard for interacting with ClickCrate API and for sellers working with products with no code. 
 
