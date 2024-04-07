@@ -8,9 +8,10 @@ Sell Real World Assets (RWAs) in games with two clicks
 
 **ClickCrate Program _(found at /programs/lib.rs)_** - Core on-chain Solana ClickCrate program
 
-**ClickCrate Dashboard** - Dashboard for interacting with ClickCrate API and for sellers working with products with no code.
+**[ClickCrate Dashboard]**(https://github.com/r3x-tech/clickcrate-dashboard) - Dashboard for interacting with ClickCrate API and for sellers working with products with no code. 
 
-**ClickCrate POC Integration** - ClickCrate API integrated into Slip & Slither game in together with OraHacks NFTs
+**ClickCrate POC Integration** - ClickCrate API integrated into [Slip & Slither](https://slipandslither.r3x.tech/) game in together with OraHacks NFTs 
+
 
 
 
