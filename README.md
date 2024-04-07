@@ -13,6 +13,8 @@ Sell Real World Assets (RWAs) in games with two clicks
 **ClickCrate POC Integration** - ClickCrate API integrated into Slip & Slither game in together with OraHacks NFTs
 
 
+
+
 ## Introduction to ClickCrate
 
 Digital Sales is already hard but over coming years it will get even harder.
