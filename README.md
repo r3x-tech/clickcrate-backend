@@ -1,17 +1,19 @@
 # ClickCrate
+
 Sell Real World Assets (RWAs) in games with two clicks
 
 ## Get Started
+
 ClickCrate API (found at /clickcrate-api) - Node.js APi deplyoed to gcloud that interacts with on-chain Solana ClickCrate program
 ClickCrate Program (found at /programs/lib.rs) - Core on-chain Solana ClickCrate program
 ClickCrate Dashboard - Dashboard for interacting with ClickCrate API and for sellers working with products with no code.
 ClickCrate POC Integration - ClickCrate API integrated into Slip & Slither game in together with OraHacks NFTs
 
-
 ## Introduction to ClickCrate
-Digital Sales is already hard but over coming years it will get even harder. 
 
-People are increasingly experiencing ad fatigue resulting in Click-through-Rates failing advertisers and ads efficiency falling ~15-20%  YoY. The ever increasing Cost per Click as well as Cost per Mile as online sales increase are making the final product sale more and more expensive. Retail Media Networks rule e-commerce and ads with 80% of market attributed to 4 companies resulting in a direct sales monopoly. But perhaps worst of all in an unprecedented mark-up in the history of sales, app stores take a 30% cut from all sales in the form of in-app purchases. This is unsustainable and a shift has already begun. Increasing as ad spend and market competition is driving sales to move beyond the online store shopping experiences that we all know to a growing 310 million social media users. Novel methods like influencer 
+Digital Sales is already hard but over coming years it will get even harder.
+
+People are increasingly experiencing ad fatigue resulting in Click-through-Rates failing advertisers and ads efficiency falling ~15-20% YoY. The ever increasing Cost per Click as well as Cost per Mile as online sales increase are making the final product sale more and more expensive. Retail Media Networks rule e-commerce and ads with 80% of market attributed to 4 companies resulting in a direct sales monopoly. But perhaps worst of all in an unprecedented mark-up in the history of sales, app stores take a 30% cut from all sales in the form of in-app purchases. This is unsustainable and a shift has already begun. Increasing as ad spend and market competition is driving sales to move beyond the online store shopping experiences that we all know to a growing 310 million social media users. Novel methods like influencer
 driven sales, direct in-post purchasing, and flash sales during streams are seeing traction. Through it all it has become apparent that direct sales remain the most cost effective option. However, as social media is gobbled up by the big players gaming remains the next biggest and a somewhat untapped market for direct sales.
 
 That is why we built CLICKCRATE. An easy to use API and soon to come SDK that allows game developers to sell real world assets in their game in as little as two clicks. To start when simply request an API Key, create/register your in-game Point of Purchase (POP) through the create-clickcrate/register-clickcrate endpoints, and when you’re ready to start earning integrate the make-purchase api call into your the game logic associated with your Point of Purchase (POP) to allow users to purchase embedded real world assets.
@@ -27,3 +29,4 @@ https://www.canva.com/design/DAGBu8X1M74/bFMQtMB6AXfB41f5wmJ6zA/edit?utm_content
 
 ## Architecture
 
+![Image Alt Text](assets/architecture.jpeg)
