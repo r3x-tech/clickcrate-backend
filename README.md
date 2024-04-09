@@ -10,7 +10,7 @@ Sell Real World Assets (RWAs) in games with two clicks
 
 **ClickCrate Program _(@/programs/lib.rs)_** - Core on-chain Solana ClickCrate program
 
-**ClickCrate POC Integration in minigame** - ClickCrate API integrated into [Slip & Slither Game](https://slipandslither.r3x.tech/) together with OraHacks NFTs ([Slip & Slither Repo](https://github.com/r3x-tech/slip-and-slither)
+**ClickCrate POC Integration in minigame** - ClickCrate API integrated into [Slip & Slither Game](https://slipandslither.r3x.tech/) together with OraHacks NFTs ([Slip & Slither Repo](https://github.com/r3x-tech/slip-and-slither))
 
 [ClickCrate Shopify Store](https://c77256-c7.myshopify.com/) - Shopify Store from where items are sourced for POC
 
