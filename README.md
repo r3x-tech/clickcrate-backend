@@ -43,11 +43,13 @@ https://www.canva.com/design/DAGBu8X1M74/bFMQtMB6AXfB41f5wmJ6zA/edit?utm_content
 
 ## User Flows
 
+
 *Player:*
 1. See a product you want to buy while playing a game 
 2. Review/view product in game embed
 3. Fill out info (ie. credit card if needed and shipping info) & sign tx to confirm purchase
 4. Receive order updates and info to the contact method you provided via the embed to the integrate service (ie. Shopify). Order management actions like returns can be managed through Shopify and your provided contact method.
+
 
 *Game Dev:*
 1. Create ClickCrate (Product Purchase Point aka POP) as a collection NFT on-chain specifying parameters in metadata. For example:
@@ -61,6 +63,7 @@ https://www.canva.com/design/DAGBu8X1M74/bFMQtMB6AXfB41f5wmJ6zA/edit?utm_content
     8. Sale Fee (to start would be a flat fee the creator specifies like $0.01 of every purchase of that product that is made)
 2. Register ClickCrate via API or on-chain program to make it live and available for product placements
 3. Receive payouts for products sold in your ClickCrate to the wallet with which you created the ClickCrate 
+
 
  *Advertiser/Product Creator/Seller:*
 1. Create a product as an NFT on-chain specifying parameters in metadata. For example: 
