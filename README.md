@@ -40,3 +40,38 @@ https://www.canva.com/design/DAGBu8X1M74/bFMQtMB6AXfB41f5wmJ6zA/edit?utm_content
 ## Architecture
 
 ![Image Alt Text](assets/architecture.jpeg)
+
+## User Flows
+
+*Player:*
+1. See a product you want to buy while playing a game 
+2. Review/view product in game embed
+3. Fill out info (ie. credit card if needed and shipping info) & sign tx to confirm purchase
+4. Receive order updates and info to the contact method you provided via the embed to the integrate service (ie. Shopify). Order management actions like returns can be managed through Shopify and your provided contact method.
+
+*Game Dev:*
+1. Create ClickCrate (Product Purchase Point aka POP) as a collection NFT on-chain specifying parameters in metadata. For example:
+    1. Name (Name of the product purchase point)
+    2. Description (Short description of the product purchase point)
+    3. Image (Image showing the product purchase point)
+    4. Placement Type (Some placement types might be in game placement ie. digital product replica can be bought as an rwa in the game, related purchase ie. a RWA product which is somehow related to an in game digital asset that can be purchased and placed in the clickcrate for that associated game digital asset, targeted advertisement/product placement ie. a POP that can accept multiple RWAs which are matched/placed by an AI based algorithm/system based on a user’s graph and additional info a seller provides) 
+    5. Asset Type (Categories/Details of acceptable products like any, t-shirt, shoe, beverage, etc.)
+    6. Additional Placement Requirements (optional additional requirements for products specified by the game developer)
+    7. User Graph Uri (ie. can be empty but user graph could be uploaded as JSON to say SHDW drive and provided in this field as a URI)
+    8. Sale Fee (to start would be a flat fee the creator specifies like $0.01 of every purchase of that product that is made)
+2. Register ClickCrate via API or on-chain program to make it live and available for product placements
+3. Receive payouts for products sold in your ClickCrate to the wallet with which you created the ClickCrate 
+
+ *Advertiser/Product Creator/Seller:*
+1. Create a product as an NFT on-chain specifying parameters in metadata. For example: 
+    1. Name (Name of the product you would like to sell)
+    2. Description (Short description of the product that will be sold)
+    3. Image (Image showing the product purchase point)
+    4. Placement Type (Some placement types might be in game placement ie. digital product replica can be bought as an rwa in the game, related purchase ie. a RWA product which is somehow related to an in game digital asset that can be purchased and placed in the clickcrate for that associated game digital asset, targeted advertisement/product placement ie. a POP that can accept multiple RWAs which are matched/placed by an AI based algorithm/system based on a user’s graph and additional info a seller provides) 
+    5. Asset Type (Categories/Details of acceptable products like any, t-shirt, shoe, beverage, etc.)
+    6. Additional Placement Requirements (optionally additional requirements specified by the creator)
+    7. User Profile Uri (for the product creator these are the params that should be found in the user graph json from the user graph uri in the click crate. ie. can be empty but ideally these params would be uploaded as JSON to say shdw drive and provided in this field as a uri.)
+    8. Listing Origin Id (the identifier of the store/marketplace/url where the product is listed for sale. To start only Shopify Store ids are supported)
+2. List/register the product via API or on-chain program to make it live and available for product placements. Make sure to provide a valid Third Party Access Token which is used to access the products of the store/marketplace/url where the product is listed for sale. To start only Shopify store access tokens are supported and are encrypted.
+3. Product gets placed into a matching product placement location. Product is sold until inventory runs out at which point it is unlisted from the product purchase point and can no longer be purchased.
+4. Payouts and all regular order management like fulfillment are handled via existing product listing software integration (ie. Shopify)
