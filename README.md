@@ -35,7 +35,7 @@ But the best part? Your sales are direct and your earnings from product placemen
 What are you waiting for? It’s time for players to unlock a truly seamless ecommerce experience that connects the digital and physical worlds so checkout the ClickCrate POC here: https://slipandslither.r3x.tech/
 
 Or just watch the demo video found in our pitch deck here:
-https://www.canva.com/design/DAGBu8X1M74/bFMQtMB6AXfB41f5wmJ6zA/edit?utm_content=DAGBu8X1M74&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGB5dWBiq8/72e2D0tnSvi-ZG4G357blA/view?utm_content=DAGB5dWBiq8&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Architecture
 
