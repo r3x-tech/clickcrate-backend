@@ -1,6 +1,6 @@
 # ClickCrate
 
-Sell Real World Assets (RWAs) in games with two clicks
+Sell Real World Assets (RWAs) in games at the click of a button
 
 
 
