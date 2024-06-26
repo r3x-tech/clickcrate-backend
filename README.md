@@ -1,4 +1,4 @@
-# ClickCrate
+# ClickCrate POC
 
 Sell Real World Assets (RWAs) in games at the click of a button
 
