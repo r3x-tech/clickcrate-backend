@@ -14,8 +14,6 @@ Sell Real World Assets (RWAs) in games at the click of a button
 
 [ClickCrate Shopify Store](https://c77256-c7.myshopify.com/) - Shopify Store from where items are sourced for POC
 
-[ClickCrate Dashboard](https://github.com/r3x-tech/clickcrate-dashboard) - Dashboard for no code sellers to work with ClickCrate API when creating products. *COMING SOON*
-
 
 
 
